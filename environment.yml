@@ -1,0 +1,11 @@
+name: machine-learning
+dependencies:
+  - python=3.7
+  - numpy
+  - scikit-learn
+  - turicreate
+  - matplotlib
+  - seaborn
+  - scipy
+  - pandas
+  - jupyter
